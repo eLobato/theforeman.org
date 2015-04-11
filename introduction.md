@@ -1,7 +1,9 @@
 ---
-layout: learn_more
-title: Learn more
+layout: introduction
+title: Introduction
 ---
+
+# Introduction
 
 ## What is Foreman?
 Foreman is an open source project that helps system administrators manage servers throughout their lifecycle,
@@ -12,11 +14,11 @@ quickly deploy applications, and proactively manage change, both on-premise with
 Foreman provides comprehensive, interaction facilities including a web frontend, CLI and RESTful API
 which enables you to build higher level business logic on top of a solid foundation.
 
-Foreman is 4+ years old, and deployed in many organizations, managing from 10s to 1000s of servers.
+Foreman is 5+ years old, and deployed in many organizations, managing from 10s to 1000s of servers.
 It is used in distributions such as RDO and RHOS (Red Hat OpenStack distribution) and has
-an extensive library of plugins.
+an [extensive library of plugins](documentation.html).
 
-##### With Foreman you could:
+##### With Foreman you can:
 * Discover, provision and upgrade your entire bare-metal infrastructure
 * Create and manage instances across private and public clouds
 * Group your hosts and manage them in bulk, regardless of location
@@ -36,7 +38,34 @@ an extensive library of plugins.
  ![](static/images/clouds/vsphere.png) VMware
 
 
+## Next steps
+
+<div class='row'>
+  <div class='col-md-4 center'>
+  <a href="documentation.html" class="btn-doc btn">
+    <h2 class='doc-icon'><i class="fa fa-newspaper-o"></i></h2>
+    documentation
+  </a>
+  </div>
+  <div class='col-md-4 center'>
+  <a href="media.html" class="btn-doc btn">
+    <h2 class='doc-icon'><i class="fa fa-video-camera"></i></h2>
+    videos
+  </a>
+  </div>
+  <div class='col-md-4 center'>
+  <a href="support.html" class="btn-doc btn">
+    <h2 class='doc-icon'><i class="fa fa-question-circle"></i></h2>
+    support
+  </a>
+  </div>
+</div>
+
+<hr/>
+
+<div>
+  <iframe src="//www.slideshare.net/slideshow/embed_code/key/t6BM0vxUBf0RG" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/skbenja1/foreman-in-your-data-center-osdc-2015" title="Foreman in Your Data Center :OSDC 2015" target="_blank">Foreman in Your Data Center :OSDC 2015</a> </strong> from <strong><a href="//www.slideshare.net/skbenja1" target="_blank">Stephen Benjamin</a></strong> </div>
+</div>
 
 
-## Learn what Foreman is all about
-The following presentation explains what Foreman is and how it works.
+<hr/>
