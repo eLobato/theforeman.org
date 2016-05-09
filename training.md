@@ -25,10 +25,17 @@ A full-page version of the presentation can be found at
 
 [rendered]: //netways.github.io/foreman-training/static
 
-<iframe class='scaleframe' width="640" height="360"
-  src="//netways.github.io/foreman-training/"
-  frameBorder="0" allowfullscreen>
-</iframe>
+<hr/>
+<div class='row'>
+  <div class='center'>
+    <iframe width="1024" height="710" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+            style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;"
+            src="//netways.github.io/foreman-training/"
+            frameBorder="0" allowfullscreen>
+    </iframe>
+  </div>
+</div>
+<hr/>
 
 The source for this training material, along with handouts and
 excercises/solutions can be found on the [Netways GitHub page][source].
